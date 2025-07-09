@@ -1,0 +1,4 @@
+D 'ivolsdec': Decomposition (decomposing) of the IV-OLS coefficient gap Use ivolsdec With STATA 19
+D
+F ivolsdec.ado
+F ivolsdec.sthlp
