@@ -1,6 +1,8 @@
 # ivolsdec
 Decomposition (decomposing) of the IV-OLS coefficient gap Use ivolsdec With STATA 19
 
+https://www.youtube.com/watch?v=rB2aRZe9O9A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
